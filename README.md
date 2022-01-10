@@ -1,13 +1,29 @@
 # **An Analysis of Kickstarter Campaigns**
 
-<!-- description of the project here -->
+> _"The true sign of intelligence is not knowledge, but imagination"_ - Albert Einstein 💎
 
-> _"the true sign of intelligence is not knowledge, but imagination"_ - Albert Einstein 💎
+## Overview
 
-## Findings
+<!-- overview & background of project -->
 
-## Charts and Graphs
-![Count of Outcomes vs  Date Created Conversion (Month)](https://user-images.githubusercontent.com/96349090/147206750-d8205fe8-f2a8-4955-b86a-02ea262e18bb.png)
-![Count of Outcomes vs  Parent Category](https://user-images.githubusercontent.com/96349090/147206800-dd2c3a1e-2291-4d74-b951-abb6f82c0f7f.png)
+The purpose of this project is to 
 
-### Recommendations
+---
+
+## Analysis and Challenges
+
+<!-- process of analysis, challenges and how I overcame them, & any possible challenges or difficulties of analysis -->
+
+  ---
+
+## Results
+
+<!-- two conclusions from theater outcomes from launch date, any conclusion from Outcomes based on goals, limitation of dataset, possible tables or graphs to create -->
+
+### Outcomes Based on Launch Dates
+
+### Outcomes Based on Goals
+
+### Limitation of Dataset
+
+### Additional Tables/Graphs
